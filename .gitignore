@@ -1,4 +1,5 @@
-node_modules/
 .DS_Store
 *.log
-generate_icons.py
+*.pem
+*.crx
+node_modules/
